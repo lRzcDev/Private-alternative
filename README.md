@@ -17,7 +17,7 @@ Whether open-source or proprietary, every tool listed here prioritizes end-to-en
 Gmail : [Proton Mail](https://proton.me/mail) | [Tuta](https://tuta.com)<br>
 Google Agenda : [Fossify Calendar](https://www.fossify.org/apps/calendar/) | [Proton Calendar](https://proton.me/calendar)<br>
 Google/Microsoft Authenticator : [Aegis](https://getaegis.app) | [Ente Auth](https://ente.io/auth) | [KeePassXC](https://keepassxc.org)<br>
-Google Chrome : [LibreWolf](https://librewolf.net) | [Waterfox](https://www.waterfox.net) | [IronFox](https://ironfoxoss.org)<br>
+Google Chrome : [LibreWolf](https://librewolf.net) *(Desktop)* | [Waterfox](https://www.waterfox.net) *(Desktop)* | [IronFox](https://ironfoxoss.org)<br> *(Android)*
 Google Contact : [Fossify Contacts](https://www.fossify.org/apps/contacts/)<br>
 Google Docs : [CryptPad](https://cryptpad.fr) | [Etherpad](https://etherpad.org)<br>
 Google Drive : [Proton Drive](https://proton.me/drive) | [Nextcloud](https://nextcloud.com)<br>
